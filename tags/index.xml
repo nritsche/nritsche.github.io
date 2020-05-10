@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>markdown</title>
-      <link>https://nritsche.github.io/tags/markdown/</link>
+      <title>foo</title>
+      <link>https://nritsche.github.io/tags/foo/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nritsche.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://nritsche.github.io/tags/text/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nritsche.github.io/tags/text/</guid>
+      <guid>https://nritsche.github.io/tags/foo/</guid>
       <description></description>
     </item>
     

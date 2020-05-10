@@ -4,8 +4,7 @@ title = "Placeholder Text"
 date = "2020-05-09"
 description = "Nothing here yet"
 tags = [
-    "markdown",
-    "text",
+    "foo",
 ]
 +++
 
